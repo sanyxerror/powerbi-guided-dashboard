@@ -25,6 +25,12 @@ This guided project was designed to build confidence with Power BI basics, inclu
 - Data modelling
 - Building visuals
 - Creating interactive reports
+below are a few extracts from the dashboard, please follow the link in the tools used section to expereince it for yourself!!
+<img width="1825" height="990" alt="image" src="https://github.com/user-attachments/assets/e78ddb19-732c-4b41-b6bc-50beb029e700" />
+<img width="1827" height="987" alt="image" src="https://github.com/user-attachments/assets/f60a8980-9d19-4344-97c3-ec0f9843f23f" />
+<img width="1830" height="986" alt="image" src="https://github.com/user-attachments/assets/6cf8884a-583a-4e4b-9385-684fe70f2798" />
+the product detail page is linked to the exec dashboard
+<img width="1826" height="989" alt="image" src="https://github.com/user-attachments/assets/0a478fe6-3398-41b5-8be6-5291bf39173b" />
 
 
 ### Connect with me!
